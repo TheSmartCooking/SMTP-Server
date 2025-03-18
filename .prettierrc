@@ -11,9 +11,6 @@
             "options": {
                 "tabWidth": 2
             }
-        },
-        {
-            "excludeFiles": "CODEOWNERS"
         }
     ]
 }
