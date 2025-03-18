@@ -1,0 +1,19 @@
+{
+    "printWidth": 80,
+    "tabWidth": 4,
+    "trailingComma": "es5",
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": true,
+    "overrides": [
+        {
+            "files": ["*.yml", "*.yaml", "*.md"],
+            "options": {
+                "tabWidth": 2
+            }
+        },
+        {
+            "excludeFiles": "CODEOWNERS"
+        }
+    ]
+}
